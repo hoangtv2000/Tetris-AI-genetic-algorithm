@@ -11,8 +11,11 @@ giá độ hiệu quả của thuật toán này, nó tương ứng với nhữn
 tôi đủ tốt, nó có thể tiến tới vô hạn. Trên thực tế, chúng tôi đã triển khai thuật toán này trên game Tetris
 có bàn cờ kích thước 22x10, với độ khó tăng dần và chưa có dấu hiệu thua cuộc. 
 
-## File báo cáo: 
+## File báo cáo
 [Ứng dụng giải thuật di truyền vào game xếp hình Tetris](https://github.com/thoconvuive/Tetris-AI-genetic-algorithm/edit/main/README.md)
 
-## Hướng dẫn sử dụng: 
+## Hướng dẫn sử dụng
 Clone project này về máy tính của bạn và mở file **index.html**, chương trình sẽ xuất hiện trên nền web. 
+
+**Preview**
+![plot](https://github.com/thoconvuive/Tetris-AI-genetic-algorithm/blob/main/preview.png?raw=true)
