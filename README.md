@@ -18,4 +18,6 @@ có bàn cờ kích thước 22x10, với độ khó tăng dần và chưa có d
 Clone project này về máy tính của bạn và mở file **index.html**, chương trình sẽ xuất hiện trên nền web. 
 
 **Preview**
+
+
 ![plot](https://github.com/thoconvuive/Tetris-AI-genetic-algorithm/blob/main/preview.png?raw=true)
