@@ -14,7 +14,7 @@ có bàn cờ kích thước 22x10, với độ khó tăng dần và chưa có d
 **Keywords**: genetic algorithm, artificial intelligence, bfs algorithm
 
 ## File báo cáo
-[Ứng dụng giải thuật di truyền vào game xếp hình Tetris](https://github.com/hoangtv2000/Tetris-AI-genetic-algorithm/edit/main/README.md)
+[Ứng dụng giải thuật di truyền vào game xếp hình Tetris](https://github.com/hoangtv2000/Tetris-AI-genetic-algorithm/blob/main/AI_Project.pdf)
 
 ## Hướng dẫn sử dụng
 Clone project này về máy tính của bạn và mở file **index.html**, chương trình sẽ xuất hiện trên nền web. 
